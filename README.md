@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cyber8dave
 - 👀 I’m interested in automation, cybersecurity and python.
 - 🌱 I’m currently learning python.
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: tbd
 
 <!---

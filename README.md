@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cyber8dave
-- 👀 I’m interested in automation, cybersecurity and python.
+- 👋 Hi, I’m Dave!
+- 👀 Interested in: Making networking and cybersecurity easier with python.
 - 🌱 I’m currently learning python.
-- ⚡ Fun fact: tbd
+- ⚡ Fun fact: tbd.
 
 <!---
 cyber8dave/cyber8dave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

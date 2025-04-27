@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dave!
 - 👀 Interested in: Making networking and cybersecurity easier with python.
 - 🌱 I’m currently learning python.
-- ⚡ 
+- ⚡ Enjoy!
 
 <!---
 cyber8dave/cyber8dave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
